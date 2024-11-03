@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "ch-CN"
-title                    : "Ziang Zheng / MS Student at Tsinghua University"
+title                    : "Ziang Zheng"
 title_separator          : "-"
 name                     : &name "Ziang Zheng"
 description              : &description "Make world better!"
@@ -21,7 +21,7 @@ repository               : "interval-package/interval-package.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Zaterval/Interval Package"
   pronouns         : "he/him"  
   bio              : "Reinforcement learning"
@@ -48,25 +48,25 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "Nonw" # Replace this with you Bluesky username
+  # bluesky          : "Nonw" # Replace this with you Bluesky username
   facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
+  # flickr           : # Username
+  # foursquare       : # Username
+  # goodreads        : # Username
+  # google_plus      : # Username
+  # keybase          : # Username
+  # instagram        : # Username
+  # lastfm           : # Username
   linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
+  # mastodon         : # URL
+  # medium           : # URL
+  # pinterest        : # Username
+  # soundcloud       : # Username
   steam            : # Username
   telegram         : # URL
-  tumblr           : # Username
+  # tumblr           : # Username
   twitter          : # Username for X / Twitter
-  vine             : # Username
+  # vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
