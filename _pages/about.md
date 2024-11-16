@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Short Bio**  
+## Short Bio  
 Zheng Ziang is a master's student at the Intelligent Driving Lab, School of Vehicle and Mobility, Tsinghua University. 
 He earned his bachelor's degree in IoT Engineering from the School of Computer Science, Central South University, 
 graduating first in his class. 
@@ -21,12 +21,11 @@ With a passion for solving challenging research problems,
 Zheng thrives in teamwork and interdisciplinary innovation. 
 His achievements include numerous awards, such as national scholarships and honors in provincial-level competitions.  
 
-**Looking for Opportunities**  
+### Looking for Opportunities  
 Zheng is open to deep collaborations and actively seeking internship opportunities.  
 Feel free to reach out via email: **ziang_zheng@foxmail.com**.
 
 ## Publications
-======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
