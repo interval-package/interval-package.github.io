@@ -11,14 +11,18 @@ redirect_from:
 
 Education
 ======
-* M.S. in School of Vehicle and Mobility, Tsinghua University, 2027
+* M.S. in School of Vehicle and Mobility / School of Artifitial Intelligence, Tsinghua University, 2027
+  * Embodied AI by Reinforcement Learning, Navigation / Locomotion / Manipulation
+  * The Intelligent Driving Lab (iDlab)
 * B.S. in School of Computer Science and Engineering, Central South University, 2024
+  * Federal Learning and Distributional computing empowered by Reinforcement Learning. 
+  * TC Lab - Edge Intelligence System Group.
 
 Work experience
 ======
 * Winter 2023: Research Assistant
   * Institute of Automation, Chinese Academy of Sciences
-  * Duties included: Visual sim2real robot locomotion
+  * Duties included: Visual sim2real robot navigation
   
 <!-- Skills
 ======
