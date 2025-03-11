@@ -29,7 +29,7 @@ Feel free to reach out via email: **ziang_zheng@foxmail.com**. -->
 
 
 <div align="center">  
-  <img src="head_banner.jpg" width="100%" alt="GitHub Logo">  
+  <img src="interval-package.github.io\images\head_banner.jpg" width="100%" alt="Head Banner">  
 </div>  
 
 ## 🚀 About Me  
